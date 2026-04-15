@@ -73,4 +73,4 @@ Recommended environment:
 
 ## Notes
 
-- The notebook already includes saved cell outputs, so plots and results are visible directly on GitHub.
+- This repository is organized to clearly present the project workflow, methods, and modeling results.
